@@ -10,6 +10,6 @@ function TimerComponent() {
       <p>현재 시간: {currentTime} 초</p>
     </div>
   );
-}
+} //
 
 export default TimerComponent;
